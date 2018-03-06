@@ -1,0 +1,3 @@
+# jetencurakesteministrom.sk
+
+## JE!
