@@ -9,15 +9,22 @@ html, body {
 body {
   display: flex;
   align-items: center;
-  background-color: #000; }
-
-h1 {
+  background-color: #fff; }
+.w{
   display: flex;
+  margin: auto;
+  flex-direction:column;
+  text-align: center;
+}
+h1 {
   font-weight: bold;
   margin: 0;
   padding: 0;
-  margin: auto;
   font-size: 8rem;
   color: #c00; }
 
-/*# sourceMappingURL=main.css.map */
+h2{
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+}
