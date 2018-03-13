@@ -28,3 +28,9 @@ h2{
   margin: 0;
   padding: 0;
 }
+a{
+  display:block;
+  color: #c00;
+  font-size: 2rem;
+  padding: 0.5rem;
+}
